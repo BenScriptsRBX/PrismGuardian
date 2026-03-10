@@ -1,0 +1,36 @@
+{
+  "name": "prismguardian-fluxer",
+  "version": "2.0.0",
+  "description": "PrismGuardian moderation bot for Fluxer",
+  "author": "BenScripts ❤️",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "keywords": [
+    "fluxer",
+    "discord",
+    "moderation",
+    "bot",
+    "prismguardian"
+  ],
+  "dependencies": {
+    "@discordjs/core": "^1.0.0",
+    "@discordjs/rest": "^2.0.0",
+    "@discordjs/ws": "^1.0.0",
+    "@tensorflow/tfjs": "^4.10.0",
+    "@xenova/transformers": "^2.6.0",
+    "canvas": "^2.11.2",
+    "dotenv": "^16.0.0",
+    "nsfwjs": "^2.4.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
