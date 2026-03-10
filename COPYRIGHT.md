@@ -2,7 +2,6 @@
 
 Copyright (c) 2026 Benjamin Toma
 
-All rights reserved. This software is licensed under the [MIT License](LICENSE)  
-(You can replace with GPL v3, Apache 2.0, etc., depending on your choice).
+All rights reserved. This software is licensed under the [MIT License](LICENSE).
 
 No part of PrismGuard may be reproduced, distributed, or modified except as permitted under the license.
