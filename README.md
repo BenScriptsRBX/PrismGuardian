@@ -1,16 +1,14 @@
 # PrismGuard
 
-PrismGuard is an advanced moderation and verification bot designed for Discord and other platforms. It uses AI to help manage communities, automate verification, and enforce rules efficiently.  
+PrismGuard is an advanced moderation and verification bot designed for Fluxer and other platforms. It uses AI to help manage communities, automate verification, and enforce rules efficiently.  
 
 ---
 
 ## Features
 
-- AI-powered moderation and spam detection  
-- Verification system for new users  
+- AI-powered moderation and spam detection    
 - Flexible configuration with environment variables  
-- PostgreSQL database support  
-- Supports Fluxer integration  
+- PostgreSQL database support   
 
 ---
 
