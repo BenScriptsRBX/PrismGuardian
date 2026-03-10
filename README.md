@@ -26,7 +26,7 @@ PrismGuard is an advanced moderation and verification bot designed for Fluxer an
 1. **Clone the repository**  
 
 ```
-git clone https://github.com/yourusername/prismguard.git
+git clone https://github.com/BenScriptsRBX/PrismGuardian.git
 cd prismguard
 ```
 
