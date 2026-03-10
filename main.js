@@ -1,6 +1,4 @@
 // main.js - PrismGuardian Fluxer Bot
-// Command-based structure with dynamic command loading
-
 const { Client, GatewayDispatchEvents } = require('@discordjs/core');
 const { REST } = require('@discordjs/rest');
 const { WebSocketManager } = require('@discordjs/ws');
